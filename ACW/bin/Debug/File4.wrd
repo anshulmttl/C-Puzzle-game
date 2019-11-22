@@ -1,0 +1,9 @@
+10,10,-3
+algorithm,0,1,right
+virus,5,4,left
+data,0,0,down
+binary,4,5,up
+loop,8,9,leftup
+code,6,9,rightup
+compile,8,3,leftdown
+file,1,6,rightdown
